@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "bootstrap": "^4.5.3",
+    "convert-excel-to-json": "^1.7.0",
+    "excel-to-clean-json": "^0.0.3",
+    "moment": "^2.29.1",
     "next": "10.0.3",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.29.0",
+    "simple-excel-to-json": "^2.2.1",
+    "xlsx": "^0.16.9"
   }
 }

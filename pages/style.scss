@@ -1,0 +1,33 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+.btn {
+  border-radius: 0;
+  padding: 0.5rem 1.2rem;
+}
+
+.heading {
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin: 1rem 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 90%;
+  margin: auto;
+}
+
+.main-page {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  .table {
+    margin-top: 2rem;
+  }
+}
+
+.micro-service {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
